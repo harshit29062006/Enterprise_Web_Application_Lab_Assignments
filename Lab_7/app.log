@@ -1,0 +1,5 @@
+INFO: Application started
+WARNING: High memory usage detected
+INFO: User login successful
+ERROR: Database connection timed out
+INFO: Background sync completed
